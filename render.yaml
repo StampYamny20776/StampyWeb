@@ -1,0 +1,9 @@
+# Exported from Render on 2025-02-05T11:06:18Z
+services:
+- type: web
+  name: StampyWeb
+  runtime: static
+  repo: https://github.com/StampYamny20776/StampyWeb
+  staticPublishPath: website code
+version: "1"
+Show more

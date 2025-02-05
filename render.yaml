@@ -7,3 +7,6 @@ services:
   staticPublishPath: website code
 version: "1"
 Show more
+git add render.yaml
+git commit -m "Add render.yaml"
+git push

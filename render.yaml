@@ -1,4 +1,4 @@
-# Exported from Render on 2025-02-05T11:06:18Z
+# Exported from Render on 2025-02-05T11:14:48Z
 services:
 - type: web
   name: StampyWeb
@@ -6,6 +6,3 @@ services:
   repo: https://github.com/StampYamny20776/StampyWeb
   staticPublishPath: website code
 version: "1"
-git add render.yaml
-git commit -m "Add render.yaml"
-git push

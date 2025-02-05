@@ -6,6 +6,3 @@ services:
   repo: https://github.com/StampYamny20776/StampyWeb
   staticPublishPath: website code
 version: "1"
-git add render.yaml
-git commit -m "Add render.yaml"
-git push
